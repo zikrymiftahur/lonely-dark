@@ -1,6 +1,6 @@
 # Lonely Dark Themes
 
-## [GitHub Repo](https://github.com/zikrymiftahur/lonely-dark-vscode)
+## [GitHub Repo](https://github.com/zikrymiftahur/lonely-dark)
 
 Inspired by One Dark Pro Themes
 
