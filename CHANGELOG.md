@@ -6,6 +6,6 @@ All notable changes to the "lonely-dark" extension will be documented in this fi
 
 - Initial release Lonely Dark Themes
 
-## [1.0.1]
+## [1.0.2]
 
 - Change Logo
