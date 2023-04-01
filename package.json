@@ -7,7 +7,7 @@
   "icon": "images/icon.PNG",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zikrymiftahur/lonely-dark-vscode.git"
+    "url": "https://github.com/zikrymiftahur/lonely-dark.git"
   },
   "engines": {
     "vscode": "^1.73.0"
@@ -29,7 +29,10 @@
     "dark",
     "themes",
     "theme",
-    "lonely-dark",
-    "colorful"
+    "lonely dark",
+    "colorful",
+    "one",
+    "pro",
+    "night"
   ]
 }
