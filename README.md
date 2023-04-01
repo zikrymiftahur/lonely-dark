@@ -1,7 +1,5 @@
 # Lonely Dark Themes
 
-## [GitHub Repo](https://github.com/zikrymiftahur/lonely-dark)
-
 Inspired by One Dark Pro Themes
 
 But this background is darker, and there is a slight color change
