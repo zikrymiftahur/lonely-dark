@@ -2,9 +2,9 @@
   "name": "lonely-dark",
   "displayName": "Lonely Dark",
   "description": "The Visual Studio Code Themes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ZikryMiftahur",
-  "icon": "images/icon.PNG",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/zikrymiftahur/lonely-dark.git"
