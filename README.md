@@ -6,9 +6,9 @@ But this background is darker, and there is a slight color change
 
 ## Screenshots
 
-![App Screenshot](https://cdn.jsdelivr.net/gh/zikrymiftahur/lonely-dark-vscode/screenshots/screenshot-1.png)
+![App Screenshot](https://cdn.jsdelivr.net/gh/zikrymiftahur/lonely-dark/screenshots/screenshot-1.png)
 
-![App Screenshot](https://cdn.jsdelivr.net/gh/zikrymiftahur/lonely-dark-vscode/screenshots/screenshots-2.png)
+![App Screenshot](https://cdn.jsdelivr.net/gh/zikrymiftahur/lonely-dark/screenshots/screenshots-2.png)
 
 ### Tweaks & theming
 
